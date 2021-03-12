@@ -10,8 +10,8 @@ void swapFunction(int &a ,int &b)
 
 int main()
 {
-	int a= 5 , b=10;
-	cout<<"Initial values"<<a<<" : "<<b<<endl;
+	int a= 10, b=20;
+	cout<<"Initial values a : "<<a<<" , b : "<<b<<endl;
 	swapFunction(a,b);
-	cout<<"After Swap values"<<a<<" : "<<b<<endl;
+	cout<<"After Swap, final values a : "<<a<<" , b : "<<b<<endl;
 }
