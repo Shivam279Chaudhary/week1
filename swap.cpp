@@ -3,9 +3,9 @@ using namespace std;
 
 void swapFunction(int &a ,int &b)
 {
-	int t = a;
-	a=b;
-	b=t;
+	a = a+b;
+	b = a-b;
+	a = a-b;
 }
 
 int main()
