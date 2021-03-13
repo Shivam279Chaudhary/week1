@@ -9,4 +9,7 @@ Tasks
 - check-out the latest code from remote to local dev branch
 - check-in and handle merge conflict
 - sync code with latest changes across all branches
+- understand usage of stash command and use it to solve a pull conflict
+- understand git reset and usage/difference of options --soft , --mixed, --hard 
+- understand git revert command usage 
 
